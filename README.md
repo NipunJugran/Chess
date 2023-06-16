@@ -1,1 +1,1 @@
-Link to the Website: https://chess-crwsyxdne-nipunjugran.vercel.app/
+Link to the Website: https://chess-sand.vercel.app/
